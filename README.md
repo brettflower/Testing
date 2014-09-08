@@ -1,4 +1,4 @@
 Testing
 =======
 
-Learning how to use Git.
+Learning how to use Git. And other things.
